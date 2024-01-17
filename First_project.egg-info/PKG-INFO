@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: First-project
+Version: 0.0.0
+Author: Pranav Moses
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
